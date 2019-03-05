@@ -1,0 +1,6 @@
+owner=398792269072695296
+prefix=Y
+game=Yplay
+stayinchannel=true
+songinstatus=false
+token=NTUyNDUzNTE0NzAyNjE4NjI0.D1_v_A.HVe6MF978hZhxLkxSAvj6b5pUbM
